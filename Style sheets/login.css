@@ -849,15 +849,19 @@
     * {
       transition: all 0.5s ease-out;
     }
-     body{
-      background-color: #fd0000;
-    }
     .nav-logo {
       height: 50px;
       width: 60px;
       display: flex;
       align-items: center;
       justify-content: center;
+    }
+    .add-first{
+      font-size: 0.4rem;
+    }
+    .add-sec{
+      font-size: 0.6rem;
+      margin-top: 3px;
     }
     .hero-section{
       background-position: center;
@@ -881,9 +885,9 @@
   .return{
     display: none;
   }
-  .pakistan{
+  /* .pakistan{
     display: none;
-  }
+  } */
     .nav-second {
       font-size: 0.55rem;
       font-weight: 700;
