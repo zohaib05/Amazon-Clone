@@ -1,0 +1,16 @@
+body {
+  background-color: #c9d6ff;
+  background: linear-gradient(to right, #e2e2e2, #e7d7a5);
+}
+.go a {
+  color: black;
+  font-size: 24px;
+  font-weight: 600;
+}
+.go a:hover {
+  color: rgb(20, 122, 255);
+  text-decoration: none;
+}
+.go {
+  margin: 15px;
+}
